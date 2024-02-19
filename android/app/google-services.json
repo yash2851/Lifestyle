@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696077309550",
+    "project_id": "lifestyle-e6c19",
+    "storage_bucket": "lifestyle-e6c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696077309550:android:a6bb32eab2c59916f3b87f",
+        "android_client_info": {
+          "package_name": "com.example.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Zts7m9dQpf9Nx3tusZnWKpgdbhYwRxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
