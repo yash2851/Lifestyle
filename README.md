@@ -4,11 +4,14 @@ A new Flutter project.
 
 ## Output
 
+<p>
 
-![Screenshot_20240219_134928](https://github.com/yash2851/Lifestyle/assets/130960433/3e523122-7a9a-439f-8755-4f7151ca806c)
-![Screenshot_20240219_134959](https://github.com/yash2851/Lifestyle/assets/130960433/e2781ca6-e01a-4ab5-a62d-381305fa9832)
-![Screenshot_20240219_135027](https://github.com/yash2851/Lifestyle/assets/130960433/897ebdc2-f43e-4db3-b070-4466fc0816ea)
-![Screenshot_20240219_135037](https://github.com/yash2851/Lifestyle/assets/130960433/4324ba2c-1f1f-423f-a43b-3076c33a5cfe)
+<img src="https://github.com/yash2851/Lifestyle/assets/130960433/986856da-21b1-438f-810c-a66523cc470b" height=400>
+<img src="https://github.com/yash2851/Lifestyle/assets/130960433/e49d994a-803e-4ac1-9c1c-51430dc476ca" height=400>
+<img src="https://github.com/yash2851/Lifestyle/assets/130960433/fb1eb795-8839-4c97-9695-5d883b7a3d39" height=400>
+<img src="https://github.com/yash2851/Lifestyle/assets/130960433/5d541aca-32a3-4799-8928-0df6350f53d1" height=400>
+
+</p>
 
 https://github.com/yash2851/Lifestyle/assets/130960433/63a83c9e-7816-4eaa-9750-3975ca148fa9
 
